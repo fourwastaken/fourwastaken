@@ -1,5 +1,5 @@
 # Hi there 👋
-I make projects that involve game hacking. (I make cheats for CSGO)
+I make projects that involve game hacking.
 
 # 🫠 My Stuff
 • I mostly use C++
